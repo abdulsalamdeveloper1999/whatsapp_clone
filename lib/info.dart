@@ -11,7 +11,7 @@ const info = [
     'message': 'Hello, whats up',
     'time': '2:25 pm',
     'profilePic':
-        'https://www.socialketchup.in/wp-content/uploads/2020/05/fi-vill-JOHN-DOE.jpg',
+        'https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/16:9/w_3999,h_2249,c_limit/MtFuji-GettyImages-959111140.jpg',
   },
   {
     'name': 'Naman Ranawat',
@@ -32,7 +32,7 @@ const info = [
     'message': 'You ate food?',
     'time': '10:00 am',
     'profilePic':
-        'https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?auto=compress%2Cformat&ixlib=php-3.3.0',
+        'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=900&q=60',
   },
   {
     'name': 'Jurica',
@@ -101,19 +101,9 @@ const messages = [
     "text": "Looks great to me!",
     "time": "11:15 am",
   },
-  
-
   {"isMe": false, "text": "Thanks bro!", "time": "11:17 am"},
-  {
-    "isMe": false,
-    "text": "Did you subscribe?",
-    "time": "11:16 am"
-  },
-  {
-    "isMe": true,
-    "text": "Yes, surely bro!",
-    "time": "11:17 am"
-  },
+  {"isMe": false, "text": "Did you subscribe?", "time": "11:16 am"},
+  {"isMe": true, "text": "Yes, surely bro!", "time": "11:17 am"},
   {
     "isMe": false,
     "text": "Cool, did you like the content?",
